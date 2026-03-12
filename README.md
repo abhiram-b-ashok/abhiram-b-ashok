@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhiram-b-ashok
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m looking to collaborate on Making Android mobile applications with Kotlin
+- 👀 I’m doing in mobile app development in Native Android
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Making Android mobile applications with Kotlin and Cross platforms with Flutter
 
 <!---
 abhiram-b-ashok/abhiram-b-ashok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
